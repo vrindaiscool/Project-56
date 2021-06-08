@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background: linear-gradient(#a4fca6 0%, #0e00ad 100%);
+    font-family: 'Lobster', cursive;
+}
+
+
+
+div {
+   border-color:  linear-gradient(#a4fca6 0%, #0e00ad 100%);
+
+}
+
+.section-content{
+    height: 90px;
+    width:100px;
+    
+    
+    
+}
+
+.image-section{
+    height: 90px;
+    width:100px;
+    
+    
+    
+}
+
+
